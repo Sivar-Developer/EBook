@@ -12,7 +12,7 @@
         <div class="col-md-12">
             <div id="category-header">
                 <h1>E-BOOKS LIBRARY</h1>
-                <p>Read Free Books Online and Download Books</p>
+                <p>Read Free Books Online and Download Books anything</p>
                 <div class="search-div">
                 <form action="#" method="get" id="search-box">
                     <input type="text" class="search" placeholder="search...">
